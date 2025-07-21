@@ -1,10 +1,13 @@
-<img width="1919" height="1066" alt="Screenshot 2025-07-21 232729" src="https://github.com/user-attachments/assets/b6e27007-7b01-4d0c-a374-20d973571fcf" />
-<img width="1919" height="1066" alt="Screenshot 2025-07-21 232729" src="https://github.com/user-attachments/assets/fd5a934d-e5a0-4bdb-abd3-d4b763b79c7f" />
+
 # 🤖 TerraScribe: The AI-Powered Infrastructure as Code Assistant
 
 TerraScribe is a web-based tool that leverages the power of Amazon Bedrock (Anthropic's Claude 3 Sonnet) to translate plain English requests into production-ready Infrastructure as Code. This project automates the often tedious process of writing boilerplate Terraform and Kubernetes configuration files, allowing DevOps engineers to build faster and more consistently.
 
 ![TerraScribe Screenshot](https://github.com/user-attachments/assets/7d560f47-91c9-4b4b-bed4-d5e2c4a1293a)
+
+
+
+
 
 
 ## 📖 About The Project
